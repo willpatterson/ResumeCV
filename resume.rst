@@ -1,7 +1,16 @@
 ********************
 William M. Patterson
 ********************
-**wpatt2@pdx.edu | 541-231-3246**
+
+Contact:
+--------
+
+:Email: wpatt2@pdx.edu 
+
+:Phone: 541-231-3246
+
+Skills Overview:
+----------------
 
 :Languages: Python, Bash, Julia, Perl, Java, C/C++
 
